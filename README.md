@@ -1,6 +1,6 @@
 # The mean flow, velocity dispersion, energy transfer and evolution of rotating and growing dark matter haloes
 
-Xu Z., 2026, *The mean flow, velocity dispersion, energy transfer and evolution of rotating and growing dark matter haloes*, Zenodo [doi:10.5281/zenodo.24095667](https://doi.org/10.5281/zenodo.24095667). The preprint is hosted on arXiv as [arXiv:2201.12665](https://arxiv.org/abs/2201.12665); no journal version exists. This record is a new version of the earlier record [zenodo.org/records/6640380](https://zenodo.org/records/6640380).
+Xu Z., 2026, *The mean flow, velocity dispersion, energy transfer and evolution of rotating and growing dark matter haloes*, Zenodo [doi:10.5281/zenodo.24095667](https://doi.org/10.5281/zenodo.24095667). The preprint is hosted on arXiv as [arXiv:2201.12665](https://arxiv.org/abs/2201.12665). This record is a new version of the earlier record [zenodo.org/records/6640380](https://zenodo.org/records/6640380).
 
 ## Major findings
 
