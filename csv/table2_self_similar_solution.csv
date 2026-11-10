@@ -1,0 +1,14 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com
+# Updated,11/2026,,
+#Name,"Self-similar rotating solution, NFW c=3.5 (alpha_theta = 0, 0.5, 1)",,
+"#Ref. [1] Xu 2022, arXiv:2201.12665",https://doi.org/10.48550/arXiv.2201.12665,,
+#Ref. [2] Dataset Part I,https://doi.org/10.5281/zenodo.6541231,halo-based statistics,
+,,,
+,,,
+quantity,alpha_theta=0,alpha_theta=0.5,alpha_theta=1
+omega_h/H,2.38436462,2.18243687,2.02391155
+gamma_H,0.510872684,0.467607753,0.433642202
+K_a,0.766063392,0.601664781,0.510708928
+lambda',0.0383289177,0.0350829075,0.0325345958
+lambda_p (n_e=-1.42),0.0281814387,0.025794801,0.0239211481
+alpha_f,9.20238502,10.0538263,10.8413044
